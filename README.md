@@ -1,1 +1,1 @@
-# coding-challenge
+# Simple Array Sum
