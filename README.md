@@ -1,1 +1,1 @@
-# coding-challenge
+# Compare Triplets
